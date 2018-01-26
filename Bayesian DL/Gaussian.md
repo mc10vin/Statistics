@@ -1,3 +1,6 @@
+Gaussian Distribution pdf cdf
+================
+
 This is an example of how to plot the Gaussian distribution in R. Recall the notation for a Gaussian (a.k.a. Normal) random variable is *X* ∼ *N*(*μ*, *σ*<sup>2</sup>), which has parameters *μ* ∈ ℝ, the *mean*, and *σ*<sup>2</sup> &gt; 0, the *variance*. The probability density function (pdf) for a normal random variable is given by
 
 $$
